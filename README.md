@@ -1,6 +1,6 @@
 _The Chronicle of Higher Education_ maintains a [record](https://chronicle.com/blogs/live-coronavirus-updates/heres-a-list-of-colleges-that-will-require-students-to-be-vaccinated-against-covid-19) of all institutions of higher education in the United States of America that have a requirement for employees and/or students to be vaccinated. Since they have made the data openly available, I thought it would be interesting to see what is happening at the institutions that are members of the [Association of American Universities](https://www.aau.edu/). You can view the list of members at <https://www.aau.edu/sites/default/files/AAU-Files/Who-We-Are/AAU-Member-List.pdf>.
 
-I have done this because so many institutions claim to be aiming for an invitation to join the AAU. If membership in that august body is the goal, then it seems prudent to follow the lead of existing members in as many ways as possible. Making policies regarding COVID-19 mitigation that are based on science, not politics, would be a great place to start.
+I have done this because many institutions aspire to membership in the AAU. If membership in that august body is the goal, then it seems prudent to follow the lead of existing members in as many ways as possible. Making policies regarding COVID-19 mitigation that are based on science, not politics, would be a great place to start.
 
 Here are my findings as of August 24, 2021:
 
