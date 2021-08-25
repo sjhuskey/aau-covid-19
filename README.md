@@ -1,8 +1,3 @@
----
-title: "AAU Instititions with COVID-19 Vaccination Requirements"
-author: "Samuel J. Huskey"
-...
-
 _The Chronicle of Higher Education_ maintains a [record](https://chronicle.com/blogs/live-coronavirus-updates/heres-a-list-of-colleges-that-will-require-students-to-be-vaccinated-against-covid-19) of all institutions of higher education in the United States of America that have a requirement for employees and/or students to be vaccinated. Since they have made the data openly available, I thought it would be interesting to see what is happening at the institutions that are members of the [Association of American Universities](https://www.aau.edu/). You can view the list of members at <https://www.aau.edu/sites/default/files/AAU-Files/Who-We-Are/AAU-Member-List.pdf>.
 
 I have done this because so many institutions claim to be aiming for an invitation to join the AAU. If membership in that august body is the goal, then it seems prudent to follow the lead of existing members in as many ways as possible. Making policies regarding COVID-19 mitigation that are based on science, not politics, would be a great place to start.
@@ -16,27 +11,7 @@ Here are my findings as of August 24, 2021:
 
 It is also worth noting that only one AAU institution (Vanderbilt) in the Big XII and SEC athletic conferences has a requirement for vaccination against COVID-19.
 
-A note on the following table: I downloaded the data from _The Chronicle of Higher Education's_ website, and I compared it with the list of AAU member institutions. I added a column to the _Chronicle's_ data to indicate AAU membership status.
-
-Also, for the record, here are the AAU institutions that have not reported a vaccination requirement:
-
-- Georgia Institute of Technology
-- Iowa State University
-- McGill University
-- Purdue University
-- Stony Brook University – The State University of New York
-- Texas A&M University
-- The Ohio State University
-- The Pennsylvania State University
-- The University of Arizona
-- The University of Iowa
-- The University of Kansas
-- The University of North Carolina at Chapel Hill
-- The University of Texas at Austin
-- The University of Utah
-- The University of Wisconsin – Madison
-- University of Missouri, Columbia
-- University of Pittsburgh
+A note on the following table: I downloaded the data from _The Chronicle of Higher Education's_ website, and I compared it with the list of AAU member institutions. I added a column to the _Chronicle's_ data to indicate AAU membership status. The name of the institution is linked to its COVID-19 policy.
 
 | College                                                                                                                                                                                                                                                 | AAU | Type    | Employees (Vaccination required) | All students (Vaccination required) | Voted in 2020 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------- | -------------------------------- | ----------------------------------- | ------------- |
@@ -86,3 +61,23 @@ Also, for the record, here are the AAU institutions that have not reported a vac
 | [Vanderbilt University](https://www.vanderbilt.edu/coronavirus/)@@Vanderbilt University                                                                                                                                                                 | Y   | Private | ✓                                | ✓                                   | R             |
 | [Washington University in St. Louis](https://covid19.wustl.edu/covid-19-vaccine-requirement/)@@Washington University in St. Louis                                                                                                                       | Y   | Private | ✓                                | ✓                                   | R             |
 | [Yale University](https://www.wfsb.com/news/yale-university-requiring-all-students-to-get-vaccinated-before-returning-to-campus/article_6d599bfc-a121-11eb-8fe8-4f87c780682c.html)@@Yale University                                                     | Y   | Private | ✓                                | ✓                                   | D             |
+
+Also, for the record, here are the AAU institutions that have not reported a vaccination requirement:
+
+- Georgia Institute of Technology
+- Iowa State University
+- McGill University
+- Purdue University
+- Stony Brook University – The State University of New York
+- Texas A&M University
+- The Ohio State University
+- The Pennsylvania State University
+- The University of Arizona
+- The University of Iowa
+- The University of Kansas
+- The University of North Carolina at Chapel Hill
+- The University of Texas at Austin
+- The University of Utah
+- The University of Wisconsin – Madison
+- University of Missouri, Columbia
+- University of Pittsburgh
