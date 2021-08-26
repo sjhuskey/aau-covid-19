@@ -71,7 +71,6 @@ Also, for the record, here are the AAU institutions that have not reported a vac
 - Purdue University
 - Stony Brook University – The State University of New York
 - Texas A&M University
-- The Ohio State University
 - The Pennsylvania State University
 - The University of Arizona
 - The University of Iowa
