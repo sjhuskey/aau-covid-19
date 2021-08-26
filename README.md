@@ -48,7 +48,7 @@ A note on the following table: I downloaded the data from _The Chronicle of High
 | [University of California at Santa Cruz](https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy)                                    | Y   | Public  | ✓                                | ✓                                   | D             |
 | [University of Chicago](https://news.uchicago.edu/story/university-announces-covid-19-vaccine-requirement-all-students)                                                                                          | Y   | Private | ✓                                | ✓                                   | D             |
 | [University of Colorado at Boulder](https://president.cu.edu/statements/cu-requires-vaccine-fall-semester-2021)                                                                                                  | Y   | Public  | ✓                                | ✓                                   | D             |
-| [University of Illinois at Urbana-Champaign](https://massmail.illinois.edu/massmail/1167605264.html)-Champaign                                                                                                   | Y   | Public  | ✓                                | ✓                                   | D             |
+| [University of Illinois at Urbana-Champaign](https://massmail.illinois.edu/massmail/1167605264.html)                                                                                                   | Y   | Public  | ✓                                | ✓                                   | D             |
 | [University of Maryland at College Park](https://www.usmd.edu/newsroom/news/2154)                                                                                                                                | Y   | Public  | ✓                                | ✓                                   | D             |
 | [University of Michigan at Ann Arbor](https://www.michigandaily.com/administration/u-m-to-require-vaccinations-against-covid-19-for-all-students-living-in-residence-halls-next-fall/)                           | Y   | Public  | ✓                                | ✓                                   | D             |
 | [University of Minnesota at Twin Cities](https://safe-campus.umn.edu/return-campus/get-the-vax)                                                                                                                  | Y   | Public  | --                               | ✓                                   | D             |
@@ -77,6 +77,7 @@ Also, for the record, here are the AAU institutions that have not reported a vac
 - The University of Kansas
 - The University of North Carolina at Chapel Hill
 - The University of Texas at Austin
+- The University of Toronto
 - The University of Utah
 - The University of Wisconsin – Madison
 - University of Missouri, Columbia
