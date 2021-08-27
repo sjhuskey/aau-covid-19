@@ -2,12 +2,12 @@ _The Chronicle of Higher Education_ maintains a [record](https://chronicle.com/b
 
 I have done this because many institutions aspire to membership in the AAU. If membership in that august body is the goal, then it seems prudent to follow the lead of existing members in as many ways as possible. Making policies regarding COVID-19 mitigation that are based on science, not politics, would be a great place to start.
 
-Here are my findings as of August 24, 2021:
+Here are my findings as of August 27, 2021:
 
-- 70% (46 out of 65 institutions) of AAU institutions report having a requirement for a Covid-19 vaccination.
+- 72% (47 out of 65 institutions) of AAU institutions report having a requirement for a Covid-19 vaccination.
 - 100% of those AAU institutions report that vaccination is **required** for students.
 - 83% of those AAU institutions report that vaccination is **required** for employees.
-- Most (39) of the AAU institutions with a vaccine requirement are in states that voted for Biden in 2020, but seven were in states that voted for Trump.
+- Most (39) of the AAU institutions with a vaccine requirement are in states that voted for Biden in 2020, but eight were in states that voted for Trump.
 
 It is also worth noting that only one AAU institution (Vanderbilt) in the Big XII and SEC athletic conferences has a requirement for vaccination against COVID-19.
 
