@@ -1,4 +1,4 @@
-College,Announce date,Type,State  ^Color denotes 2020 presidential result^,Employees  ^(Vaccination required)^,All students  ^(Vaccination required)^,Only residential students  ^(Vaccination required)^,state_pol
+﻿College,Announce date,Type,State  ^Color denotes 2020 presidential result^,Employees  ^(Vaccination required)^,All students  ^(Vaccination required)^,Only residential students  ^(Vaccination required)^,state_pol
 [Adelphi University](https://www.adelphi.edu/news/covid-19-vaccine-required-for-adelphi-university-students/)@@Adelphi University,"July 26, 2021",Private,NY,--,✓,--,D
 [Agnes Scott College](https://www.agnesscott.edu/engaging-the-challenge-together//updates/vaccination-policy-fall-semester.html)@@Agnes Scott College,"May 7, 2021",Private,GA,✓,✓,--,D
 [Albany College of Pharmacy and Health Sciences](https://myemail.constantcontact.com/2021-22-Campus-Update--1---Updated-Health-and-Safety-Protocols.html?soid=1101058277979&aid=qNzqeL1Mm6A)@@Albany College of Pharmacy and Health Sciences,--,Private,NY,✓,✓,--,D
@@ -141,6 +141,7 @@ College,Announce date,Type,State  ^Color denotes 2020 presidential result^,Emplo
 [College of DuPage](https://www.cod.edu/about/office_of_the_president/index.aspx)@@College of DuPage,--,Public,IL,✓,✓,--,D
 [College of Mount Saint Vincent](https://mountsaintvincent.edu/covid-19-resources/information-on-coronavirus-covid-19/)@@College of Mount Saint Vincent,--,Private,NY,✓,✓,--,D
 [College of Saint Benedict](https://www.csbsju.edu/covid-19/campus-communications/080421-vaccination-requirement)@@College of Saint Benedict,"August 4, 2021",Private,MN,✓,✓,--,D
+[College of Saint Rose](https://www.strose.edu/2021/08/18/new-vaccine-requirement-with-september-9-deadline/)@@College of Saint Rose,"August 18, 2021",Private,NY,✓,✓,--,D
 [College of Southern Nevada](https://www.unlv.edu/news-story/nevada-state-board-health-approves-covid-19-vaccination-requirement-students)@@College of Southern Nevada,"August 20, 2021",Public,NV,--,✓,--,D
 [College of Staten Island CUNY](https://twitter.com/NYGovCuomo/status/1391784406453477383?s=20)@@College of Staten Island CUNY,"May 10, 2021",Public,NY,--,✓,--,D
 [College of the Atlantic](https://www.wabi.tv/2021/04/19/college-of-atlantic-to-require-all-on-campus-students-staff-to-be-vaccinated-next-fall/)@@College of the Atlantic,"April 19, 2021",Private,ME,✓,✓,--,D
@@ -190,6 +191,7 @@ College,Announce date,Type,State  ^Color denotes 2020 presidential result^,Emplo
 [DePauw University](https://www.depauw.edu/coronavirus/qa-about-covid-19/#fall2021)@@DePauw University,"April 26, 2021",Private,IN,--,✓,--,R
 [Dickinson College](https://www.dickinson.edu/info/20043/about/4094/dickinson_college_updates_on_spring_2021/23)@@Dickinson College,"April 30, 2021",Private,PA,✓,✓,--,D
 [DigiPen Institute of Technology](https://www.digipen.edu/about/digipen-covid-19-updates)@@DigiPen Institute of Technology,"April 23, 2021",For-profit,WA,✓,✓,--,D
+[Dillard University](https://www.dillard.edu/covid-19/fall2021.php)@@Dillard University,--,Private,LA,--,✓,--,R
 [Doane University](https://www.doane.edu/covid19-tigers-together)@@Doane University,--,Private,NE,--,✓,--,R
 [Dominican College of Blauvelt](https://www.dc.edu/fall-21-covid-policies/)@@Dominican College of Blauvelt,--,Private,NY,✓,✓,--,D
 [Dominican University](https://www.dom.edu/vaccine-requirement)@@Dominican University,"May 14, 2021",Private,IL,✓,✓,--,D
@@ -231,6 +233,7 @@ Five Towns College,"April 28, 2021",For-profit,NY,✓,✓,--,D
 [Fort Lewis College](https://www.fortlewis.edu/life-at-flc/health-safety/coronavirus-covid-19/covid-19-updates/update-details/policy-for-vaccine-requirement)@@Fort Lewis College,"April 15, 2021",Public,CO,--,✓,--,D
 [Framingham State University](https://www.salemstate.edu/news/fall-2021-semester-covid-19-vaccine-requirement-apr-26-2021)@@Framingham State University,"April 26, 2021",Public,MA,--,✓,--,D
 [Franklin & Marshall College](https://www.fandm.edu/pandemicoperations/health-safety/covid-19-vaccine-information)@@Franklin & Marshall College,"May 18, 2021",Private,PA,--,✓,--,D
+[Franklin Pierce University](https://www.franklinpierce.edu/Fall_2021/vac-comm.htm)@@Franklin Pierce University,--,Private,NH,--,✓,--,D
 [Fresno Pacific University](https://news.fresno.edu/coronavirus-covid-19-news-and-information)@@Fresno Pacific University,--,Private,CA,--,--,✓,D
 [Frostburg State University](https://www.usmd.edu/newsroom/news/2154)@@Frostburg State University,"April 23, 2021",Public,MD,✓,✓,--,D
 [Fulton-Montgomery Community College](https://twitter.com/NYGovCuomo/status/1391784406453477383?s=20)@@Fulton-Montgomery Community College,"May 10, 2021",Public,NY,--,✓,--,D
@@ -378,6 +381,7 @@ Marymount University,"May 7, 2021",Private,VA,✓,✓,--,D
 [Mills College](https://www.mills.edu/covid-19/index.php)@@Mills College,"June 10, 2021",Private,CA,✓,✓,--,D
 [Minneapolis College of Art and Design](https://www.mcad.edu/news/office-president-return-campus-update)@@Minneapolis College of Art and Design,"May 11, 2021",Private,MN,✓,✓,--,D
 [MiraCosta College](https://www.miracosta.edu/covid/covid-vaccination-requirements.html)@@MiraCosta College,--,Public,CA,✓,✓,--,D
+[Mitchell College](https://mitchell.edu/fall-2021/)@@Mitchell College,--,Private,CT,--,✓,--,D
 [Mitchell Hamline School of Law](https://mitchellhamline.edu/news/2021/05/17/starting-aug-1-mitchell-hamline-faculty-staff-and-students-must-be-vaccinated-to-be-on-campus/)@@Mitchell Hamline School of Law,"May 17, 2021",Private,MN,✓,✓,--,D
 [Mohawk Valley Community College](https://twitter.com/NYGovCuomo/status/1391784406453477383?s=20)@@Mohawk Valley Community College,"May 10, 2021",Public,NY,--,✓,--,D
 [Molloy College](https://www.molloy.edu/molloy-life/student-health-and-wellness/coronavirus-updates/vaccination-guidelines-for-employees)@@Molloy College,"July 27, 2021",Private,NY,✓,✓,--,D
@@ -404,7 +408,7 @@ Marymount University,"May 7, 2021",Private,VA,✓,✓,--,D
 [New England Law-Boston](https://www.nesl.edu/docs/default-source/intranet-pdfs/covid-19-vaccination-policy.pdf)@@New England Law-Boston,"June 28, 2021",Private,MA,✓,✓,--,D
 [New Jersey City University](https://www.njcu.edu/about/news/2021/04/student-covid-19-vaccination-requirement-and-availability)@@New Jersey City University,"April 18, 2021",Public,NJ,--,✓,--,D
 [New Jersey Institute of Technology](https://www.njit.edu/pandemicrecovery/vaccination-requirement-njit-community-members)@@New Jersey Institute of Technology,"April 28, 2021",Public,NJ,✓,✓,--,D
-[New Mexico Highlands University](https://www.nmhu.edu/coronavirus-covid-19-information/)@@New Mexico Highlands University,--,Public,NM,--,✓,--,D
+[New Mexico Highlands University](https://www.nmhu.edu/coronavirus-covid-19-information/)@@New Mexico Highlands University,--,Public,NM,✓,✓,--,D
 [New York Film Academy](https://www.nyfa.edu/eblast/letter-2-05-11-2021.html)@@New York Film Academy,"May 12, 2021",For-profit,CA,✓,✓,--,D
 [New York University](https://www.nyu.edu/life/safety-health-wellness/coronavirus-information/safety-and-health/covid-19-vaccine/vaccine-questions-and-support/vaccine-requirement.html)@@New York University,"April 23, 2021",Private,NY,✓,✓,--,D
 [Niagara County Community College](https://twitter.com/NYGovCuomo/status/1391784406453477383?s=20)@@Niagara County Community College,"May 10, 2021",Public,NY,--,✓,--,D
@@ -430,6 +434,7 @@ Marymount University,"May 7, 2021",Private,VA,✓,✓,--,D
 [Nova Southeastern University](https://www.nova.edu/coronavirus/information/archive-updates.html)@@Nova Southeastern University,"July 16, 2021",Private,FL,✓,--,--,R
 [Nunez Community College](https://www.katc.com/news/covering-louisiana/regents-updates-on-louisiana-higher-ed-vaccine-mandates)@@Nunez Community College,"August 25, 2021",Public,LA,--,✓,--,R
 [Oakland University](https://www.oakland.edu/return-to-campus/covid-19-vaccines/)@@Oakland University,"April 6, 2021",Public,MI,✓,✓,--,D
+[Oberlin College and Conservatory](https://www.oberlin.edu/obiesafe/obiesafe-policies-fall-2021)@@Oberlin College and Conservatory,"August 24, 2021",Private,OH,--,✓,--,R
 [Occidental College](https://www.oxy.edu/covid-19/community-messages/student-vaccination-requirement)@@Occidental College,"April 28, 2021",Private,CA,✓,✓,--,D
 [Oglethorpe University](https://covid19.oglethorpe.edu/wp-content/uploads/sites/12/2021/06/covid-vaccine-policy-fall-2021.pdf)@@Oglethorpe University,"June 3, 2021",Private,GA,✓,✓,--,D
 [Ohio State University](https://news.osu.edu/ohio-state-announces-vaccination-requirement/)@@Ohio State University,"August 24, 2021",Public,OH,✓,✓,--,R
@@ -609,6 +614,7 @@ Seattle Film Institute,"April 26, 2021",For-profit,WA,✓,✓,--,D
 [The New England Conservatory of Music](https://necmusic.edu/covid-vaccination-faqs)@@The New England Conservatory of Music,--,Private,MA,--,✓,--,D
 [The New School](https://blogs.newschool.edu/community-messages/2021/04/26/student-vaccination-requirement-for-fall-2021/)@@The New School,"April 26, 2021",Private,NY,✓,✓,--,D
 [The University of the Arts](https://www.uarts.edu/about/fall21/university-arts-covid-19-vaccine-policy-faq)@@The University of the Arts,--,Private,PA,✓,✓,--,D
+[The University of the South](https://new.sewanee.edu/2019-novel-coronavirus-covid-19/vaccination-requirement-aug-26/)@@The University of the South,"August 26, 2021",Private,TN,✓,✓,--,R
 [Thomas College](https://www.thomas.edu/2021/08/11/important-update-college-covid-vaccination-policy/)@@Thomas College,"August 11, 2021",Private,ME,✓,✓,--,D
 [Thomas Jefferson University](https://www.jefferson.edu/coronavirus.html#updates)@@Thomas Jefferson University,"April 29, 2021",Private,PA,--,✓,--,D
 [Three Rivers Community College](https://www.ct.edu/covid19#faqs)@@Three Rivers Community College,"June 25, 2021",Public,CT,--,✓,--,D
@@ -622,6 +628,7 @@ Seattle Film Institute,"April 26, 2021",For-profit,WA,✓,✓,--,D
 [Touro College-Flatbush](https://www.touro.edu/updates/coronavirus/)@@Touro College-Flatbush,"August 4, 2021",Private,NY,✓,✓,--,D
 [Touro College-Harlem](https://www.touro.edu/updates/coronavirus/)@@Touro College-Harlem,"August 4, 2021",Private,NY,✓,✓,--,D
 [Towson University](https://www.usmd.edu/newsroom/news/2154)@@Towson University,"April 23, 2021",Public,MD,✓,✓,--,D
+[Transylvania University](https://www.transy.edu/1780/2021/08/transylvania-to-require-covid-vaccine-for-students-employees/)@@Transylvania University,"August 25, 2021",Private,KY,✓,✓,--,R
 [Trinity College](https://www.trincoll.edu/reopening/plans-for-the-fall/)@@Trinity College,"April 28, 2021",Private,CT,--,✓,--,D
 [Trinity Washington University](https://discover.trinitydc.edu/news/important-covid-19-vaccine-update/)@@Trinity Washington University,"April 20, 2021",Private,DC,✓,✓,--,D
 [Truckee Meadows Community College](https://www.unlv.edu/news-story/nevada-state-board-health-approves-covid-19-vaccination-requirement-students)@@Truckee Meadows Community College,"August 20, 2021",Public,NV,--,✓,--,D
@@ -720,6 +727,7 @@ Seattle Film Institute,"April 26, 2021",For-profit,WA,✓,✓,--,D
 [University of Rhode Island](https://web.uri.edu/healthservices/covid-19-vaccine-information/)@@University of Rhode Island,"May 18, 2021",Public,RI,--,✓,--,D
 [University of Richmond](https://www.richmond.edu/coronavirus/messages/index.html#june-10-2021-fall-opening-plans-for-students)@@University of Richmond,"June 10, 2021",Private,VA,✓,✓,--,D
 [University of Rochester](https://www.rochester.edu/coronavirus-update/university-to-require-covid-19-vaccination-for-students-for-upcoming-academic-year/)@@University of Rochester,"April 22, 2021",Private,NY,--,✓,--,D
+[University of Saint Joseph](https://www.instagram.com/p/CTAo_fHFD3D/)@@University of Saint Joseph,"August 25, 2021",Private,CT,✓,✓,--,D
 [University of San Diego](https://www.sandiego.edu/onward/documents/emails/2021/mandatory-vaccinations-2021-04-19.html)@@University of San Diego,"April 19, 2021",Private,CA,✓,✓,--,D
 [University of San Francisco](https://myusf.usfca.edu/usf-together)@@University of San Francisco,"May 24, 2021",Private,CA,✓,✓,--,D
 [University of Scranton](https://www.scranton.edu/royals-safe-together/assets/documents/vaccine-mandate-for-fall-2021.pdf)@@University of Scranton,"May 19, 2021",Private,PA,✓,✓,--,D
