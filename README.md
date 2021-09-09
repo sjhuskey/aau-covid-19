@@ -79,7 +79,6 @@ Also, for the record, here are the AAU institutions that have not reported a vac
 - The University of North Carolina at Chapel Hill
 - The University of Texas at Austin
 - The University of Toronto
-- The University of Utah
 - The University of Wisconsin – Madison
 - University of Missouri, Columbia
 - University of Pittsburgh
